@@ -1,10 +1,10 @@
-
+<img align="center" alt="Coding" width="2000" height="300" src="https://www.softtechgroup.us/public/images/Software-Development-Banner.png"/>
 <h1 align="left">Hi 👋, I'm Sandra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandra1-8&label=Profile%20views&color=0e75b6&style=flat" alt="sandra1-8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandra1-8" alt="sandra1-8" /></a> </p>
+
 
 - 🔭 I’m currently working on **MITS Research and Consultancy Cell automation**
 
